@@ -1,0 +1,52 @@
+nav {
+  height: 100px;
+  background-color: lightgrey;
+  padding: center;
+}
+
+.inline-block {
+  display: inline-block;
+  padding: center;
+}
+
+
+.left {
+height: 500px;
+float: left;
+background-color: lightblue;
+width: 30%;
+text-align: center;
+}
+
+.right {
+height: 500px;
+float: right;
+width: 70%;
+text-align: center;
+}
+
+.card {
+display: inline-block;
+background-color: #C6C6C6;
+border-radius: 5px;
+height: 200px;
+width: 150px;
+margin: 35px;
+margin-top: 50px;
+}
+
+.wrapper {
+  float: left;
+  height: 1000px;
+  width: auto;
+  text-align: center;
+}
+
+.seperator {
+  border-radius: 5px;
+  height: 1000px;
+  width: auto;
+  display: flex;
+  position: relative;
+}
+
